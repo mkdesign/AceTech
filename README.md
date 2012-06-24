@@ -1,22 +1,41 @@
-AceTech
-=======
-
-ABOUT PROJECT    :
-
-This website project, design for "Acetech" company , which design and develop elevators.
+##Our Website : GoldenTECH
+This website project, design for **Acetech** company , which design and develop elevators.
 
 
-OUR TEAM         :
+###Contributing
 
-Project Manager  : Aidin Toussi (Aidin2C)
+* Check our projec's website and report any bugs or ideas in [issues](https://github.com/Goldentech/AceTech/issues)
 
-Code Advisor     : Aidin Toussi (Aidin2C), Mehrad Kavian (MKDesign)
+* Check our project's source with
+```
+    git clone https://github.com/Goldentech/AceTech.git
+```
 
-CSS & Animation  : Mehrad Kavian (MKDesign)
 
-Graphic Designer : Aidin Toussi (Aidin2C)
+###Buliding Technologies
+* [HTML5]
+* [CSS3]
+* [1Styles]
+* [JavaSCRIPT]
+* [jQuery]
+* [LightBOX]
 
 
-PROPOSED DESIGN  :
+###The Developers Team
+* [**Aidin toussi**](http://github.com/Aidin-toussi) Project Manager / Graphic Designer / Developer
+* [**Mehrad Kavian**](https://github.com/MKDesign) Designer / Developer
+
+###Domain names Registered :###
+
+http://www.AceTech.ir
+
+###Desired Design :###
 
 http://www.peter-pearson.com
+
+### All rights reserved ###
+Please note that GoldenTECH.org is a curated site and that we reserve the right to refuse any listing for any reason.
+
+The [GoldenTECH.org](http://GoldenTECH.org) code and website is released under a MIT License.
+
+Produced by GoldenTECH Developers team, (2012)
