@@ -12,7 +12,7 @@ This website project, design for **Acetech** company , which design and develop 
 ```
 
 
-###Buliding Technologies
+###Building Technologies
 * [HTML5]
 * [CSS3]
 * [1Styles]
@@ -27,11 +27,11 @@ This website project, design for **Acetech** company , which design and develop 
 
 ###Domain names Registered :###
 
-http://www.AceTech.ir
+* http://www.AceTech.ir
 
 ###Desired Design :###
 
-http://www.peter-pearson.com
+* http://www.peter-pearson.com
 
 ### All rights reserved ###
 Please note that GoldenTECH.org is a curated site and that we reserve the right to refuse any listing for any reason.
