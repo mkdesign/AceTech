@@ -40,14 +40,19 @@ div.intro h1{
 }
 
 div.intro p.first-guide{
-	margin: 280px 0 0 570px;
+	margin: 330px 0 0 580px;
 	background-image: url('images/thatway2.gif');
 	background-repeat: no-repeat;
 	width: 260px;
 	height: 41px;
 	text-indent: -9000px;
+	background-position: 0 -123px;
+
 }
 
+div.intro p.first-guide:hover{
+	background-position: 0 0;
+}
 
 
 
