@@ -2,6 +2,17 @@ body,html{
 	height: 100%;
 	background-color: #f3f7ff;
 }
+body{
+	position: relative;
+}
+.clear{
+	clear:both;
+	width:0 !important;
+	height:0 !important;
+	min-height:0 !important;
+	min-width:0 !important;
+	overflow:hidden;
+}
 
 div.container{
 	height: 100%;
@@ -54,9 +65,23 @@ div.intro p.first-guide:hover{
 	background-position: 0 0;
 }
 
+div.train > ul.info{
+	color: #598F8F;
+	list-style-type: none;
+	position: absolute;
+	clear: both;
+	top:96%;
+	left:0;
+	height: 25px;
+}
 
-
-
+ul.info li{
+	float: left;
+	background-image: url('images/contactbg.png');
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	padding:6px 30px 6px 10px;
+}
 
 
 
