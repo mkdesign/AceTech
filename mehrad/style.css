@@ -70,28 +70,52 @@ div.train > ul.info{
 	list-style-type: none;
 	position: absolute;
 	clear: both;
-	top:96%;
+	top:94%;
 	left:0;
 	height: 25px;
+	font-size: 0.8em;
 }
 
 ul.info li{
 	float: left;
-	background-image: url('images/contactbg.png');
-	background-repeat: no-repeat;
-	background-position: bottom right;
 	padding:6px 30px 6px 10px;
 }
 
+ul.info li.tel{
+	background-image: url('images/contactbg.png');
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
 
+ul.info li.mail{
+	background-image: url('images/contactbg.png');
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
 
+ul.info li.little-about{
+	width:600px;
+	background-image: url('images/contactbg2.png');
+}
 
+ul.info li.little-about a{
+	color:#3374A6;
+	text-decoration: none;
+	font-weight: bold;
+}
 
+ul.info li.little-about span{
+	-webkit-transition: all 150ms;
+}
 
+ul.info li.little-about:hover span.first-arrow{
+	margin-left: 2px;
+}
 
+ul.info li.little-about:hover span.secend-arrow{
 
-
-
+	margin-left: 2px;
+}
 
 
 
