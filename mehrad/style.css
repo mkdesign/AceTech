@@ -126,6 +126,10 @@ section.outerbox div.back{
 	background-color:gray;
 }
 
+section.outerbox div.back h1{
+	text-transform: capitalize ,uppercase;
+}
+
 section.outerbox div.next{
 	float: right;
 	width:120px;
@@ -184,12 +188,20 @@ section.outerbox article aside.task-key ul li{
 
 section.outerbox article div.detail{
 	margin-right: 340px;
+	width:450px;
 
 }
 
+section.outerbox article div.detail h1{
+	font-family: tahoma;
+	font-size: 16px;
+	font-weight:bold;
+	margin:10px 0 5px 0;
+}
 
-
-
+section.outerbox article div.detail p{
+	margin-bottom: 5px;	
+}
 
 
 
