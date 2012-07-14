@@ -116,7 +116,6 @@ ul.info li.little-about:hover span.secend-arrow{
 div.train section.outerbox{
 	width: 1060px;
 	float: left;
-	background-image: url('images/asd.png');
 }
 
 section.outerbox div.back{
@@ -127,7 +126,6 @@ section.outerbox div.back{
 }
 
 section.outerbox div.back h1{
-	text-transform: capitalize ,uppercase;
 }
 
 section.outerbox div.next{
@@ -154,11 +152,11 @@ section.outerbox div.box img{
 
 section.outerbox div.box article{
 	width:798px;
-	min-height: 250px;
+	min-height: 200px;
 }
 
 section.outerbox article aside.task-key{
-	min-height:210px;
+	min-height:170px;
 	width:300px;
 	float: right;
 	background-color: #f2f2f2;
