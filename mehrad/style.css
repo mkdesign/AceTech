@@ -24,14 +24,10 @@ div.train{
 	width:5000px;
 	height: 100%;
 	position: absolute;
+	float: left;
+	left:1070px;
 }
 
-div.train div.box{
-	width:800px;
-	min-height: 300px;
-	margin-left:400px;
-	float: left;
-}
 
 div.intro{
 	width:1070px;
@@ -117,8 +113,17 @@ ul.info li.little-about:hover span.secend-arrow{
 	margin-left: 2px;
 }
 
-
-
+div.train div.box{
+	width:800px;
+	min-height: 300px;
+	margin-left:400px;
+	float: left;
+}
+div.train div.box img{
+	display: block;
+	width: 798px;
+	height: 276px;
+}
 
 
 
