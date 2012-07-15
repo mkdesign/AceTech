@@ -18,9 +18,6 @@ body{
 	overflow:hidden;
 }
 
-
-
-
 div.intro{
 	width:1070px;
 	height: 100%;
@@ -122,15 +119,22 @@ section.outerbox div.back{
 	float: left;
 	width:120px;
 	min-height: 300px;
-	background-color:gray;
 }
 
 section.outerbox div.back h1{
+	display: block;
+	width:30px;
+	min-height:80px;
+	background-image: url('images/hatch-dark.png');
+	background-repeat: repeat;
+	margin-top: 40px;
+	float: right;
 }
 
 section.outerbox div.next{
 	float: right;
 	width:120px;
+	min-height:300px;
 }
 
 section.outerbox div.box{
@@ -140,7 +144,13 @@ section.outerbox div.box{
 	margin-left: 120px;
 	margin-top: 40px;
 	padding:10px;
+	background-image: url('images/fff50.png');
+	background-repeat: repeat;
+	border:1px solid #eee;
+}
 
+section.outerbox div.cloud1{
+	background-image: url('images/');
 }
 
 section.outerbox div.box img{
@@ -148,6 +158,7 @@ section.outerbox div.box img{
 	width: 798px;
 	height: 276px;
 	margin-bottom: 10px;
+	border:1px solid #eee;
 }
 
 section.outerbox div.box article{
@@ -183,11 +194,9 @@ section.outerbox article aside.task-key ul li{
 	font-family:tahoma;
 }
 
-
 section.outerbox article div.detail{
 	margin-right: 340px;
 	width:450px;
-
 }
 
 section.outerbox article div.detail h1{
