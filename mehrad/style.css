@@ -32,6 +32,8 @@ div.train{
 	position: absolute;
 	float: left;
 	left:1060px;
+	background-image:url('images/cloudy3.jpg');
+	background-repeat: repeat-x;
 }
 
 div.intro h1{
@@ -113,6 +115,9 @@ ul.info li.little-about:hover span.secend-arrow{
 div.train section.outerbox{
 	width: 1060px;
 	float: left;
+	position: relative;
+	margin-left: 400px;
+	
 }
 
 section.outerbox div.back{
@@ -150,7 +155,9 @@ section.outerbox div.box{
 }
 
 section.outerbox div.cloud1{
-	background-image: url('images/');
+	background-image: url('images/cloud1.jpg');
+	background-repeat: no-repeat;
+	background-position: 50px 300px;
 }
 
 section.outerbox div.box img{
@@ -210,7 +217,20 @@ section.outerbox article div.detail p{
 	margin-bottom: 5px;	
 }
 
+section.outerbox article div.detail div.moreinfo{
+	position: absolute;
+	border:1px solid #e1ebf3;
+	bottom:10px;
+	left:140px;
+	padding:5px 10px;
+	background-color: #f2f2f2;
 
+}
 
-
+section.outerbox article div.detail div.moreinfo a{
+	font-size: 12px;
+	font-weight:bold;
+	text-decoration:none;
+	color:#598f8f;
+}
 
