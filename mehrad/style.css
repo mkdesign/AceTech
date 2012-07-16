@@ -3,12 +3,18 @@
 }
 body,html{
 	height: 100%;
-	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:.9em;
 }
 body{
 	position: relative;
 	background-color: #f3f7ff;
 }
+
+a{
+	color:#598f8f;
+}
+
 .clear{
 	clear:both;
 	width:0 !important;
@@ -27,7 +33,7 @@ div.intro{
 
 }
 div.train{
-	width:5000px;
+	width:7000px;
 	height: 100%;
 	position: absolute;
 	float: left;
@@ -185,7 +191,7 @@ section.outerbox article aside.task-key{
 section.outerbox article aside.task-key h3{
 	font-size: 13px;
 	font-weight: bold;
-	font-family:tahoma;
+
 	margin-bottom: 10px;
 
 }
@@ -198,7 +204,7 @@ section.outerbox article aside.task-key ul{
 }
 
 section.outerbox article aside.task-key ul li{
-	font-family:tahoma;
+	font-family:inherit;
 }
 
 section.outerbox article div.detail{
@@ -233,4 +239,67 @@ section.outerbox article div.detail div.moreinfo a{
 	text-decoration:none;
 	color:#598f8f;
 }
+
+div.train section.about{
+	width:1060px;
+	float: left;
+	margin-left: 400px;
+	min-height:300px;
+
+}
+
+div.train section.about article{
+	width:800px;
+	margin:50px 120px 0 120px;
+}
+
+div.train section.about p.about-acetech{
+	margin-bottom: 10px;
+	background-image: url('images/fff50.png');
+	padding:10px;
+	display: block;
+	border:1px solid #eee;
+	color:#666;
+} 
+
+div.train section.about p.cal{
+	color:#598f8f;
+	width: 260px;
+	text-align: center;
+	margin:0px 0 0 80px;
+	font-weight: bold;
+	background-image: url('images/fff50.png');
+	float: left;
+	border:1px solid #eee;
+	padding:10px;
+}
+
+div.train section.about p.e-mail{
+	color:#598f8f;
+	margin:10px 0 0 440px;
+	width: 260px;
+	text-align: center;
+	font-weight: bold;
+	background-image: url('images/fff50.png');
+	border:1px solid #eee;
+	padding:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
