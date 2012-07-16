@@ -15,6 +15,14 @@ a{
 	color:#598f8f;
 }
 
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
 .clear{
 	clear:both;
 	width:0 !important;
@@ -241,11 +249,13 @@ section.outerbox article div.detail div.moreinfo a{
 }
 
 div.train section.about{
+	background-image: url('images/cloud1.jpg');
+	background-repeat: no-repeat;
 	width:1060px;
 	float: left;
 	margin-left: 400px;
 	min-height:300px;
-
+	background-position: 150px 300px;
 }
 
 div.train section.about article{
@@ -260,6 +270,7 @@ div.train section.about p.about-acetech{
 	display: block;
 	border:1px solid #eee;
 	color:#666;
+
 } 
 
 div.train section.about p.cal{
@@ -285,9 +296,16 @@ div.train section.about p.e-mail{
 	padding:10px;
 }
 
+section.about div.moreinfo{
+	width:800px;
+	margin-top: 40px;
+	padding:10px;
+}
 
-
-
+section.about div.moreinfo div.technologies{
+	width:160px;
+	margin-right: 50px;
+}
 
 
 
