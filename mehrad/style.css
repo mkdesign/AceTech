@@ -134,13 +134,13 @@ div.train section.outerbox{
 	
 }
 
-section.outerbox div.back{
+ div.back{
 	float: left;
 	width:120px;
 	min-height: 300px;
 }
 
-section.outerbox div.back h1{
+div.back h1{
 	display: block;
 	width:30px;
 	min-height:80px;
@@ -150,7 +150,7 @@ section.outerbox div.back h1{
 	float: right;
 }
 
-section.outerbox div.next{
+ div.next{
 	float: right;
 	width:120px;
 	min-height:300px;
