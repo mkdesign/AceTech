@@ -307,11 +307,24 @@ section.about div.moreinfo div.technologies{
 	margin-right: 50px;
 }
 
+section.about div.moreinfo div.friends{
+	margin-left: 630px;
+}
 
+section.about div.moreinfo div.technologies h3{
+	font-family: inherit;
+	font-size: 13px;
+	color: #666;
+	font-weight:bold;
+	margin: 5px 0 10px 0;
+}
 
-
-
-
+section.about div.moreinfo div.technologies ul li{
+	padding:6px 3px 6px 0;
+	font-family:inherit;
+	font-size: 11px;
+	color: #666;
+}
 
 
 
